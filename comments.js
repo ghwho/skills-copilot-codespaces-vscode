@@ -1,7 +1,5 @@
 // create web server
 
-
-
 var io = require('socket.io')(http);
 // 5. create body parser object
 var bodyParser = require('body-parser');
